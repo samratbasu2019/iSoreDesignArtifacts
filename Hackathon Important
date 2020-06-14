@@ -10,6 +10,7 @@ ec2-18-225-10-140.us-east-2.compute.amazonaws.com - Srini
 ec2-18-219-7-188.us-east-2.compute.amazonaws.com - deepa
 18.219.7.188
 
+http://18.225.10.140:8300/adapter/appreciation/upload
 
 How to setup cron-UI :
 https://www.ostechnix.com/how-to-easily-and-safely-manage-cron-jobs-in-linux/
